@@ -1,2 +1,3 @@
 # calculator-web-app
-this is a web project 
+this is a frontend  project using html css
+
